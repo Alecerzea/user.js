@@ -1,0 +1,14 @@
+user_pref("network.trr.uri", "https://base.dns.mullvad.net/dns-query");
+user_pref("network.trr.mode", 2);
+user_pref("privacy.trackingprotection.enabled", true);
+user_pref("privacy.trackingprotection.cryptomining.enabled", true);
+user_pref("privacy.trackingprotection.enabled", true);
+user_pref("browser.send_pings", false);
+user_pref("browser.sessionstore.privacy_level", 2);
+user_pref("browser.safebrowsing.downloads.remote.enabled", false)
+user_pref("beacon.enabled", false)
+user_pref("webgl.disabled", true)
+user_pref("dom.event.clipboardevents.enabled", false)
+user_pref("media.navigator.enabled", false)
+user_pref("network.cookie.cookieBehavior", 1)
+user_pref("network.cookie.cookieBehavior.pbmode", 1)
