@@ -21,6 +21,7 @@ user_pref("network.trr.mode", 3);
 user_pref("network.trr.uri", "https://base.dns.mullvad.net/dns-query");
 user_pref("places.history.enabled", false);
 user_pref("privacy.clearOnShutdown.cache", true);
+user_pref("privacy.clearOnShutdown.cookies", false);
 user_pref("privacy.clearOnShutdown.downloads", true);
 user_pref("privacy.clearOnShutdown.formdata", true);
 user_pref("privacy.clearOnShutdown.history", true);
