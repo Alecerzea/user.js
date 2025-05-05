@@ -1,9 +1,11 @@
 user_pref("beacon.enabled", false);
 user_pref("browser.cache.disk.enable", false);
-user_pref("browser.safebrowsing.downloads.enabled", false);
-user_pref("browser.safebrowsing.downloads.remote.enabled", false);
-user_pref("browser.safebrowsing.malware.enabled", false);
-user_pref("browser.safebrowsing.phishing.enabled", false);
+user_pref("browser.safebrowsing.downloads.enabled", true);
+user_pref("browser.safebrowsing.downloads.remote.block_potentially_unwanted", true);
+user_pref("browser.safebrowsing.downloads.remote.block_uncommon", true);
+user_pref("browser.safebrowsing.downloads.remote.enabled", true);
+user_pref("browser.safebrowsing.malware.enabled", true);
+user_pref("browser.safebrowsing.phishing.enabled", true);
 user_pref("browser.search.suggest.enabled", false);
 user_pref("browser.send_pings", false);
 user_pref("browser.sessionstore.privacy_level", 2);
