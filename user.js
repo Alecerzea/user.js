@@ -15,7 +15,6 @@ user_pref("dom.event.clipboardevents.enabled", false);
 user_pref("extensions.pocket.enabled", false);
 user_pref("identity.fxaccounts.enabled", false);
 user_pref("keyword.enabled", true);
-user_pref("media.autoplay.blocking_policy", 2);
 user_pref("media.navigator.enabled", false);
 user_pref("network.cookie.cookieBehavior", 1);
 user_pref("network.cookie.cookieBehavior.pbmode", 1);
