@@ -11,6 +11,8 @@ user_pref("browser.send_pings", false);
 user_pref("browser.sessionstore.privacy_level", 2);
 user_pref("browser.startup.page", 3);
 user_pref("browser.urlbar.suggest.searches", false);
+user_pref("browser.urlbar.weather.featureGate", false);
+user_pref("browser.urlbar.wikipedia.featureGate", false);
 user_pref("dom.event.clipboardevents.enabled", false);
 user_pref("extensions.pocket.enabled", false);
 user_pref("identity.fxaccounts.enabled", false);
