@@ -1,5 +1,6 @@
 user_pref("beacon.enabled", false);
 user_pref("browser.cache.disk.enable", false);
+user_pref("browser.newtabpage.activity-stream.showWeather", false);
 user_pref("browser.safebrowsing.downloads.enabled", true);
 user_pref("browser.safebrowsing.downloads.remote.block_potentially_unwanted", true);
 user_pref("browser.safebrowsing.downloads.remote.block_uncommon", true);
@@ -10,9 +11,11 @@ user_pref("browser.search.suggest.enabled", false);
 user_pref("browser.send_pings", false);
 user_pref("browser.sessionstore.privacy_level", 2);
 user_pref("browser.startup.page", 3);
+user_pref("browser.tabs.firefox-view", false);
 user_pref("browser.urlbar.suggest.searches", false);
 user_pref("browser.urlbar.weather.featureGate", false);
 user_pref("browser.urlbar.wikipedia.featureGate", false);
+user_pref("browser.weather.enabled", false);
 user_pref("dom.event.clipboardevents.enabled", false);
 user_pref("extensions.pocket.enabled", false);
 user_pref("identity.fxaccounts.enabled", false);
