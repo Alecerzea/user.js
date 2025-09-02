@@ -24,7 +24,6 @@ user_pref("media.navigator.enabled", false);
 user_pref("network.cookie.cookieBehavior", 1);
 user_pref("network.cookie.cookieBehavior.pbmode", 1);
 user_pref("network.dns.disableIPv6", false);
-user_pref("network.trr.mode", 2);
 user_pref("places.history.enabled", false);
 user_pref("privacy.clearOnShutdown.cache", true);
 user_pref("privacy.clearOnShutdown.cookies", false);
