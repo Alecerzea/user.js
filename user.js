@@ -1,5 +1,11 @@
 user_pref("beacon.enabled", false);
 user_pref("browser.cache.disk.enable", false);
+user_pref("browser.newtabpage.activity-stream.feeds.section.highlighted", 0);
+user_pref("browser.newtabpage.activity-stream.feeds.section.topstories", 0);
+user_pref("browser.newtabpage.activity-stream.feeds.section.topstories.rows", 0);
+user_pref("browser.newtabpage.activity-stream.feeds.section.topstories.settled", true);
+user_pref("browser.newtabpage.activity-stream.showSponsored", false);
+user_pref("browser.newtabpage.activity-stream.showSponsoredTopSites", false);
 user_pref("browser.newtabpage.activity-stream.showWeather", false);
 user_pref("browser.safebrowsing.downloads.enabled", true);
 user_pref("browser.safebrowsing.downloads.remote.block_potentially_unwanted", true);
