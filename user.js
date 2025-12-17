@@ -1,5 +1,12 @@
 user_pref("beacon.enabled", false);
+user_pref("browser.ai.chat.enabled", false);
 user_pref("browser.cache.disk.enable", false);
+user_pref("browser.experiments.ml.chat", false);
+user_pref("browser.ml.enable", false);
+user_pref("browser.ml.chat.enabled", false);
+user_pref("browser.ml.chat.onboarding", false);
+user_pref("browser.ml.chat.shortcuts", false);
+user_pref("browser.ml.chat.sidebar", false);
 user_pref("browser.newtabpage.activity-stream.feeds.section.highlighted", 0);
 user_pref("browser.newtabpage.activity-stream.feeds.section.topstories", 0);
 user_pref("browser.newtabpage.activity-stream.feeds.section.topstories.rows", 0);
@@ -42,4 +49,5 @@ user_pref("privacy.clearOnShutdown.sessions", false);
 user_pref("privacy.sanitize.sanitizeOnShutdown", true);
 user_pref("privacy.trackingprotection.cryptomining.enabled", true);
 user_pref("privacy.trackingprotection.enabled", true);
+user_pref("sidebar.ai-chat.enabled", false);
 user_pref("webgl.disabled", true);
